@@ -2,7 +2,7 @@
 
 **Two more zones for Team S2HD’s Windows demo.** Head into Aquatic Ruin after Chemical Plant, then explore Mystic Cave after Hill Top. Each zone has two acts and its own boss fight. I built the expansion around the routes from the 1992 Mega Drive game. — MagmanPlay
 
-**[Download v1 with instructions (.zip)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.zip)** · [Patch only (.xdelta)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.xdelta) · [Release notes](CHANGELOG.md)
+**[Download v1 with instructions (.zip)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.zip)** · [Patch only (.xdelta)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.xdelta) · [Release notes](CHANGELOG.md) · [Report a bug](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues/new?template=bug-report.yml)
 
 Requires the original **Sonic 2 HD Demo 2.0 for Windows, build 1012**. [Download the original demo from Team S2HD](https://sonic2hd.com/download/).
 
@@ -10,6 +10,12 @@ Requires the original **Sonic 2 HD Demo 2.0 for Windows, build 1012**. [Download
 | --- | --- |
 | [![Sonic on a hillside among the ruins, with waterfalls behind him](screenshots/aquatic-ruin.jpg)](screenshots/aquatic-ruin.jpg) | [![Sonic on a mine railway beside wooden crates](screenshots/mystic-cave.jpg)](screenshots/mystic-cave.jpg) |
 | Stay on the pillars or take the underwater route. Both lead to Eggman and his hammer. | Grab the vines, ride the mine platforms and watch for falling rocks when Egg Digger appears. |
+
+## Found a bug or glitch?
+
+I’m still working on this expansion. If you find a glitch, even one you’ve only seen once, I’d like to hear about it. Tell me what happened and where. A landmark like “the first spring underwater in Aquatic Ruin Act 2” helps me get back to the same spot. You can attach a screenshot or a short clip directly to your report. — MagmanPlay
+
+**[Open a bug report](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues/new?template=bug-report.yml)** · [Browse existing reports](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues)
 
 ## Install on Windows
 
@@ -40,5 +46,3 @@ If Delta Patcher reports a checksum mismatch, start again with a fresh copy of T
 **Team S2HD** created Sonic 2 HD, its SonicOrca engine and Demo 2.0. **MagmanPlay** made this independent fan expansion and has no affiliation with SEGA or Team S2HD. Sonic the Hedgehog and the original Sonic the Hedgehog 2 belong to SEGA.
 
 Original zone music by **Masato Nakamura**. Aquatic Ruin uses **eph**’s Act 1 preview arrangement in both acts. Mystic Cave uses the arrangement by **Tee Lopes**. Parts of the expansion artwork, including the Aquatic Ruin canopy, were made with the help of ImageGen. [Team S2HD’s Aquatic Ruin music preview](https://sonic2hd.com/2020/10/18/demo-3-0-ost-aquatic-ruin-zone-act-1/)
-
-Found a bug? Please include the zone, act, route and what you were doing just before it happened. A screenshot or short clip can help pin down the spot. [Report an expansion bug](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues)

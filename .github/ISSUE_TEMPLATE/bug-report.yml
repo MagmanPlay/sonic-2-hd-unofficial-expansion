@@ -1,0 +1,28 @@
+name: Bug or glitch
+description: Tell MagmanPlay about a problem you found in the unofficial expansion.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: What did the game do, and what did you expect? You can drag a screenshot or a short clip into this box.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where did it happen?
+      description: A zone, act and nearby landmark help. For a menu or startup issue, the screen name is enough.
+      placeholder: Aquatic Ruin Act 2, at the first underwater spring
+  - type: textarea
+    id: steps
+    attributes:
+      label: What were you doing just before it happened?
+      description: A few steps help me try it myself. A one-off glitch is worth reporting too.
+  - type: input
+    id: version
+    attributes:
+      label: Expansion version
+      description: Shown beside the build number on the title screen.
+      placeholder: Unofficial Expansion Patch v1
