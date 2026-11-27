@@ -2,7 +2,7 @@
 
 **Two more zones for Team S2HD’s Windows demo.** Head into Aquatic Ruin after Chemical Plant, then explore Mystic Cave after Hill Top. Each zone has two acts and its own boss fight. I built the expansion around the routes from the 1992 Mega Drive game. — MagmanPlay
 
-**[Download v1 with instructions (.zip)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.zip)** · [Patch only (.xdelta)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.xdelta) · [Release notes](CHANGELOG.md) · [Report a bug](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues/new?template=bug-report.yml)
+**[Download v1 with instructions (.zip)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.zip)** · [Patch only (.xdelta)](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/download/v1/S2HD-Unofficial-Expansion-Patch-v1.xdelta) · [Full v1 changelog](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/releases/tag/v1) · [Report a bug](https://github.com/MagmanPlay/sonic-2-hd-unofficial-expansion/issues/new?template=bug-report.yml)
 
 Requires the original **Sonic 2 HD Demo 2.0 for Windows, build 1012**. [Download the original demo from Team S2HD](https://sonic2hd.com/download/).
 
